@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NumberList</string>
+    <string name="show">Show</string>
+    <string name="square_number">Số chính phương</string>
+    <string name="odd_number">Số lẻ</string>
+    <string name="even_number">Số chẵn</string>
+    <string name="positive_number">Nhập số nguyên dương</string>
+</resources>
